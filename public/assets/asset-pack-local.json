@@ -1,0 +1,286 @@
+{
+  "fonts": {
+    "files": [
+      {
+        "url": /assets/local/fonts/retro-pixel-arcade.otf.woff2",
+        "type": "font",
+        "key": "RetroPixel",
+        "fontType": "opentype"
+      }
+    ]
+  },
+  "ui_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "game_title",
+        "url": "/assets/local/images/game_title.png"
+      },
+      {
+        "type": "image",
+        "key": "play_button",
+        "url": "/assets/local/images/play_button.png"
+      },
+      {
+        "type": "image",
+        "key": "victory_banner",
+        "url": "/assets/local/images/victory_banner.png"
+      },
+      {
+        "type": "image",
+        "key": "restart_button",
+        "url": "/assets/local/images/restart_button.png"
+      },
+      {
+        "type": "image",
+        "key": "back_button",
+        "url": "/assets/local/images/back_button.png"
+      },
+      {
+        "type": "image",
+        "key": "goal_text",
+        "url": "/assets/local/images/goal_text.png"
+      },
+      {
+        "type": "image",
+        "key": "stun_stars",
+        "url": "/assets/local/images/stun_stars.png"
+      }
+    ]
+  },
+  "backgrounds": {
+    "files": [
+      {
+        "type": "image",
+        "key": "clean_soccer_field_background",
+        "url": "/assets/local/images/clean_soccer_field_background.png"
+      },
+      {
+        "type": "image",
+        "key": "soccer_field_background",
+        "url": "/assets/local/images/clean_soccer_field_background.png"
+      }
+    ]
+  },
+  "game_objects": {
+    "files": [
+      {
+        "type": "image",
+        "key": "soccer_ball",
+        "url": "/assets/local/images/soccer_ball.png"
+      },
+      {
+        "type": "image",
+        "key": "goal_left",
+        "url": "/assets/local/images/fixed_goal_left.png"
+      },
+      {
+        "type": "image",
+        "key": "goal_right",
+        "url": "/assets/local/images/fixed_goal_right.png"
+      }
+    ]
+  },
+  "player_animations": {
+    "files": [
+      {
+        "type": "image",
+        "key": "player1_idle_frame1",
+        "url": "/assets/local/animations/messi_idle_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_idle_frame2",
+        "url": "/assets/local/animations/messi_idle_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_walk_frame1",
+        "url": "/assets/local/animations/messi_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_walk_frame2",
+        "url": "/assets/local/animations/messi_walk_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_jump_frame1",
+        "url": "/assets/local/animations/messi_jump_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_jump_frame2",
+        "url": "/assets/local/animations/messi_jump_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_slide_frame1",
+        "url": "/assets/local/animations/messi_slide_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_slide_frame2",
+        "url": "/assets/local/animations/messi_slide_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_kick_frame1",
+        "url": "/assets/local/animations/messi_kick_no_ball_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_kick_frame2",
+        "url": "/assets/local/animations/messi_kick_no_ball_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_idle_frame1",
+        "url": "/assets/local/animations/ronaldo_idle_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_idle_frame2",
+        "url": "/assets/local/animations/ronaldo_idle_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_walk_frame1",
+        "url": "/assets/local/animations/ronaldo_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_walk_frame2",
+        "url": "/assets/local/animations/ronaldo_walk_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_jump_frame1",
+        "url": "/assets/local/animations/ronaldo_jump_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_jump_frame2",
+        "url": "/assets/local/animations/ronaldo_jump_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_slide_frame1",
+        "url": "/assets/local/animations/ronaldo_slide_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_slide_frame2",
+        "url": "/assets/local/animations/ronaldo_slide_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_kick_frame1",
+        "url": "/assets/local/animations/ronaldo_kick_no_ball_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_kick_frame2",
+        "url": "/assets/local/animations/ronaldo_kick_no_ball_R/frame_2.png"
+      }
+    ]
+  },
+  "victory_poses": {
+    "files": [
+      {
+        "type": "image",
+        "key": "player1_victory_pose",
+        "url": "/assets/local/images/player1_victory_pose.png"
+      },
+      {
+        "type": "image",
+        "key": "player1_defeat_pose",
+        "url": "/assets/local/images/player1_defeat_pose.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_victory_pose",
+        "url": "/assets/local/images/player2_victory_pose.png"
+      },
+      {
+        "type": "image",
+        "key": "player2_defeat_pose",
+        "url": "/assets/local/images/player2_defeat_pose.png"
+      },
+      {
+        "type": "image",
+        "key": "players_draw_pose",
+        "url": "/assets/local/images/players_draw_pose.png"
+      }
+    ]
+  },
+  "sound_effects": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "button_click",
+        "url": "/assets/local/audio/sound_effects/button_click.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "game_start",
+        "url": "/assets/local/audio/sound_effects/game_start.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ball_kick",
+        "url": "/assets/local/audio/sound_effects/ball_kick.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ball_bounce",
+        "url": "/assets/local/audio/sound_effects/ball_bounce.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "goal_cheer",
+        "url": "/assets/local/audio/sound_effects/goal_cheer.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "whistle",
+        "url": "/assets/local/audio/sound_effects/whistle.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "slide_tackle",
+        "url": "/assets/local/audio/sound_effects/slide_tackle.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "goal_post_hit",
+        "url": "/assets/local/audio/sound_effects/goal_post_hit.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "victory_fanfare",
+        "url": "/assets/local/audio/sound_effects/victory_fanfare.mp3"
+      }
+    ]
+  },
+  "background_musics": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "soccer_theme",
+        "url": "/assets/local/audio/music/soccer_theme.wav"
+      },
+      {
+        "type": "audio",
+        "key": "soccer_match_theme",
+        "url": "/assets/local/audio/music/soccer_match_theme.wav"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Gambo AI",
+    "version": 2,
+    "showAllFilesInBlocks": false,
+    "note": "Assets migrated to local storage from https://cdn-game-mcp.gambo.ai on 2026-04-03"
+  }
+}
